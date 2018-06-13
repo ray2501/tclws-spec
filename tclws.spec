@@ -4,11 +4,11 @@
 
 Name:          tclws
 Summary:       Web Services for Tcl
-Version:       2.5.0
-Release:       1
+Version:       2.6.0
+Release:       0
 License:       BSD
 Group:         Development/Libraries/Tcl
-Source:        tclws-2.5.0.tar.gz
+Source:        %{name}-%{version}.tar.gz
 URL:           http://core.tcl.tk/tclws/index
 BuildArch:     noarch
 BuildRequires: make
