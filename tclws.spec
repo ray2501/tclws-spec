@@ -12,7 +12,7 @@ Source:        %{name}-%{version}.tar.gz
 URL:           http://core.tcl.tk/tclws/index
 BuildArch:     noarch
 BuildRequires: make
-Requires:      tcl >= 8.5
+Requires:      tcl >= 8.6
 Requires:      tdom >= 0.8.1
 Requires:      tcllib
 Requires:      tls
