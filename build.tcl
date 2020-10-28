@@ -1,7 +1,7 @@
 #!/usr/bin/tclsh
 
 set arch "noarch"
-set base "tclws-2.7.0"
+set base "tclws-2.7.1"
 set fileurl "http://core.tcl.tk/tclws/tarball/$base.tar.gz"
 
 set var [list wget $fileurl -O $base.tar.gz]

@@ -4,7 +4,7 @@
 
 Name:          tclws
 Summary:       Web Services for Tcl
-Version:       2.7.0
+Version:       2.7.1
 Release:       0
 License:       BSD
 Group:         Development/Libraries/Tcl
