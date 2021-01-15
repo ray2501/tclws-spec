@@ -6,7 +6,7 @@ Name:          tclws
 Summary:       Web Services for Tcl
 Version:       3.1.0
 Release:       0
-License:       BSD
+License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
 Source:        %{name}-%{version}.tar.gz
 URL:           http://core.tcl.tk/tclws/index
