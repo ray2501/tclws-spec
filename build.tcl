@@ -4,7 +4,7 @@ set arch "noarch"
 set base "tclws-3.5.0"
 set fileurl "http://core.tcl.tk/tclws/tarball/$base.tar.gz"
 
-set var [list wget $fileurl -O $base.tar.gz]
+set var [list wget2 $fileurl -O $base.tar.gz]
 exec >@stdout 2>@stderr {*}$var
 
 if {[file exists build]} {
